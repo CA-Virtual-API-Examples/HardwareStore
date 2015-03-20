@@ -17,3 +17,5 @@ The "Get customer details 1" and "Get customer details 2" demonstrate how the na
 can be passed as a parameter in two different ways.
 
 The "List all orders" fetches a list of all orders to the store.
+
+You can sort, filter, select specific attributes, limit the number of items and change the format (XML to JSON and vice-versa) of the response from your REST API using system filter parameters provided by CA Virtual APi Cloud.  This is supported for GET requests with responses in XML or JSON format.  See https://communities.ca.com/docs/DOC-231150902?sr=inbox for more details.
