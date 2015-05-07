@@ -1,6 +1,6 @@
 # HardwareStore
 
-This is a virtualized sample of a simple book store api.
+This is a virtualized sample of a simple hardware store api.
 
 There are two groups of request-response pairs: Customers and Orders.
 
